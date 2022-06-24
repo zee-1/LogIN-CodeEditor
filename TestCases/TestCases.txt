@@ -1,0 +1,3 @@
+Test Case:
+args: None
+Expected Output:Hello world
